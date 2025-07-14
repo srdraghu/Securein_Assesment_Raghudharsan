@@ -127,7 +127,3 @@ Test APIs here:
 - You can hard refresh the browser with **Ctrl+Shift+R** if JS updates aren’t applied.
 
 ---
-
-## 🤝 Contact
-
-For any questions or clarification, feel free to reach out to the Securin team.
